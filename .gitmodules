@@ -1,0 +1,8 @@
+[submodule "Packages/PBX"]
+	path = Packages/PBX
+	url = https://github.com/eframework-org/NOD.PBX.git
+	branch = master
+[submodule "Packages/LBX"]
+	path = Packages/LBX
+	url = https://github.com/eframework-org/NOD.LBX.git
+	branch = master
